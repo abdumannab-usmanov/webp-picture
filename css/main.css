@@ -379,7 +379,13 @@ img {
 }
 
 .container {
+  width: 100%;
+  max-width: 1000px;
   margin: 0 auto;
   padding: 0 20px;
+}
+
+.hero-top {
+  margin-bottom: 40px;
 }
 /*# sourceMappingURL=main.css.map */
